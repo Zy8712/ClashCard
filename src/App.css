@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Orbitron';
+    src: url('/fonts/Orbitron-VariableFont_wght.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Oxanium';
+    src: url('/fonts/Oxanium-VariableFont_wght.ttf') format('truetype');
+}
+
+.custom-text-shadow-hero{
+    text-shadow: 2px 2px violet;
+}
