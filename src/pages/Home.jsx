@@ -15,13 +15,13 @@ export default function Home() {
                     </div>
                 </div>
 
-                <div className="absolute bottom-28 w-[550px] flex justify-between">
-                    <button className="bg-red-500 p-2 rounded-md">
+                <div className="absolute bottom-28 w-[500px] h-12 flex justify-between items-center">
+                    <button className="bg-red-500 p-2 rounded-md border-white border-0 border-solid hover:border-4 transition-all duration-200 ease-in-out">
                         <span className="w-full h-full text-white text-lg font-semibold px-4 py-1">
                             See How it Works
                         </span>
                     </button>
-                    <button className="bg-blue-500 p-2 rounded-md">
+                    <button className="bg-blue-500 p-2 rounded-md border-white border-0 border-solid hover:border-4 transition-all duration-200 ease-in-out">
                         <span className="w-full h-ful text-white text-lg font-semibold px-4 py-1">
                             Generate Your Own Card
                         </span>
