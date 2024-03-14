@@ -8,6 +8,19 @@
     src: url('/fonts/Oxanium-VariableFont_wght.ttf') format('truetype');
 }
 
+@font-face {
+    font-family: 'Clash Regular';
+    src: url('/fonts/Clash_Regular.otf') format('opentype');
+}
+
 .custom-text-shadow-hero{
     text-shadow: 2px 2px violet;
+}
+
+.custom-text-shadow-text-black-outline{
+    text-shadow: 1px 0px black, 0px 1px black, 1px 1px black, -1px -1px black, -1px 0px black, 0px -1px black, -1px 1px black, 1px -1px black;
+}
+
+.custom-text-shadow-text-black-outline-v2{
+    text-shadow: 12px 0px black, 0px 12px black, 12px 12px black, -12px -12px black, -12px 0px black, 0px -12px black, -12px 12px black, 12px -12px black;
 }

@@ -9,6 +9,7 @@ export default {
       fontFamily: {
         'theme-orbitron': ['Orbitron', 'sans-serif'],
         'theme-oxanium': ['Oxanium', 'sans-serif'],
+        'theme-clash': ['Clash Regular', 'sans-serif'],
       },
       backgroundImage: {
         'custom-background' : "url('/backgrounds/hall_of_heros/desktop/1270391_default_ai_upscaled_400.jpg')",
